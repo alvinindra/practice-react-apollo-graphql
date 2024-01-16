@@ -1,3 +1,7 @@
+# This practice project is pointing to
+Learning Platform: https://www.howtographql.com/react-apollo
+Study case: Hacker News
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
